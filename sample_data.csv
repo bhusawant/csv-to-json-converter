@@ -1,0 +1,11 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male
+Priya,Sharma,28,B-101 Green Valley,Baner Road,Pune,Maharashtra,female
+Amit,Kumar,42,C-205 Sunrise Apartments,MG Road,Bangalore,Karnataka,male
+Sneha,Gupta,19,D-303 Blue Heights,Sector 15,Noida,Uttar Pradesh,female
+Rajesh,Singh,65,E-401 Golden Residency,Andheri West,Mumbai,Maharashtra,male
+Kavya,Reddy,31,F-502 Silver Oak,Hitech City,Hyderabad,Telangana,female
+Arjun,Patel,23,G-601 Diamond Plaza,Satellite,Ahmedabad,Gujarat,male
+Meera,Joshi,47,H-701 Emerald Towers,Koregaon Park,Pune,Maharashtra,female
+Vikash,Yadav,38,I-801 Ruby Residency,Whitefield,Bangalore,Karnataka,male
+Anita,Mishra,29,J-901 Pearl Heights,Salt Lake,Kolkata,West Bengal,female
